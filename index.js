@@ -10,3 +10,9 @@ function multiply(a,b) {
 function divide(a,b) {
   return (a/b)
 }
+function int(n) {
+  return (a+1)
+}
+function dec(n) {
+  return (a-1)
+}
